@@ -21,3 +21,4 @@ Please cite if you find this work useful for you research.
 # License and Attribution
 
 This repository is released under the Apache-2.0 license, see LICENSE file for details.
+The auto-generated codes under `apollo` folder have different license. Refer to the header of each file for details.
